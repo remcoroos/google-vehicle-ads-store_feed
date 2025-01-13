@@ -1,0 +1,13 @@
+# Als u geen toegang heeft tot het Google Bedrijfsprofiel-account dat uw winkelvermeldingen bevat, kunt u een winkelgegevensbron gebruiken om gegevens over locaties aan te leveren. We raden u sterk aan alle aangegeven kenmerken in te dienen voor een geldige overeenkomst tussen uw winkelgegevensbron en uw voertuigvoorraad. Neem contact op met uw Google-vertegenwoordiger om toegang tot de winkelgegevensbron aan te vragen.
+# Het adres en de andere aangeleverde kenmerken (bijvoorbeeld telefoonnummer) moeten overeenkomen met het adres van de dealer of locatie in Google Bedrijfsprofiel (en zichtbaar zijn op Google Maps).
+# De oorspronkelijke dealerlocatie moet door het oorspronkelijke dealerbedrijf worden geclaimd in het eigen Google-bedrijfsprofiel om te worden gekoppeld aan de winkelgegevensbron.
+# Recentheid van gegevens: Gegevens in de winkelgegevensbron verlopen na 90 dagen. Wanneer dat gebeurt, krijgt u voor uw voertuigen de afkeuringsmelding 'Geldige winkelcode ontbreekt'. Upload uw winkelgegevensbron minstens elke 30 dagen opnieuw.
+# Limiet voor bestandsgrootte: Uw bestand met de winkelgegevensbron mag maximaal 10.000 rijen bevatten.
+# store_code: Vereist - Een korte ID om een autodealer vast te stellen. Hoeft niet hetzelfde te zijn als de winkelcode in uw bedrijfsprofiel. Moet overeenkomen met de winkelcode in de primaire productgegevensbron.
+# store_address: Vereist - Postadres van de autodealer. Voer het hele adres in, inclusief het land.
+# store_name: Aanbevolen - Naam van bedrijf of autodealer zoals deze wordt vermeld in Google Bedrijfsprofiel (en zichtbaar is op Google Maps).
+
+store_code,store_address,store_name
+001,"Kamerlingh Onnesstraat 23, 2041 CB Zandvoort, NL","Autobedrijf Zandvoort Bv"
+002,"De Ruijterstraat 1, 6651 ZJ Druten, NL","Driessen Auto's"
+003,"Rijksstraatweg 63, 7391 MH Twello, NL","Auto Totaal Twello"
